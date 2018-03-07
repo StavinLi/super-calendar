@@ -11,3 +11,5 @@
 ![Alt text](https://github.com/yichen1203/super-calendar/blob/master/super-calendar/images/intro3.png)
 
 ![Alt text](https://github.com/yichen1203/super-calendar/blob/master/super-calendar/images/intro4.png)
+
+![Alt text](https://github.com/yichen1203/super-calendar/blob/master/super-calendar/images/intro5.png)
