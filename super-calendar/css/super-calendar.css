@@ -1,0 +1,110 @@
+﻿ html,
+        body {
+            height: 100%;
+        }
+        
+        .select-time {
+            position: relative;
+            top: 50px;
+            left: 50px;
+        }
+        
+        #rent-time {
+            margin-left: 10px;
+            padding-left: 50px;
+            width: 424px;
+            height: 55px;
+            line-height: 53px;
+            border: 1px solid #edeeed;
+            cursor: pointer;
+            background: url(../images/index-date.png) no-repeat 18px 17px #fff;
+            font-size: 16px;
+            color: #666666;
+        }
+        
+        .calendar-box {
+            position: absolute;
+            left: 10px;
+            width: 545px;
+            background: #fff;
+            font-size: 12px;
+            box-shadow: 2px 10px 26px rgba(0, 0, 0, .15);
+            display: none;
+        }
+        
+        .calendar-box .calendar-container {
+            padding: 0 9px 10px;
+            width: 270px;
+        }
+        
+        .calendar-box .calendar-date {
+            background: #f4f5f6;
+            position: relative;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+        }
+        
+        .calendar-box .calendar-date span {
+            position: absolute;
+            display: block;
+            width: 50px;
+            height: 40px;
+            top: 0;
+            cursor: pointer;
+        }
+        
+        .calendar-box .calendar-date p {
+            float: left;
+            width: 50%;
+        }
+        
+        .calendar-date-left span {
+            left: 0;
+            background: url(../images/calendar-left.png) no-repeat center;
+        }
+        
+        .calendar-date-right span {
+            right: 0;
+            background: url(../images/calendar-right.png) no-repeat center;
+        }
+        
+        .calendar-box .calendar-week span {
+            float: left;
+            width: 36px;
+            line-height: 36px;
+            text-align: center;
+        }
+        
+        .calendar-box .calendar-week span[data-week="7"],
+        .calendar-box .calendar-week span[data-week="6"] {
+            color: #e94709;
+        }
+        
+        .calendar-right-days li,
+        .calendar-left-days li {
+            float: left;
+            width: 34px;
+            height: 34px;
+            text-align: center;
+            line-height: 34px;
+            margin: 1px;
+        }
+        
+        .calendar-container .old-day,
+        .calendar-container .olds-day {
+            color: #999;
+        }
+        
+        .calendar-container .new-day:not(.olds-day) {
+            cursor: pointer;
+        }
+        
+        .calendar-container .new-day.active {
+            background: #e94709;
+            color: #fff;
+        }
+        
+        .calendar-container .new-day:not(.olds-day):not(.active):hover {
+            background: #efefef;
+        }
