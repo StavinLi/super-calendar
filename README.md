@@ -2,19 +2,19 @@
 日历-选择入住离开时间
 
 ### 效果预览
-    1. [在线预览 https://stavinli.github.io/super-calendar/index.html](https://stavinli.github.io/super-calendar/index.html)
+- [在线预览 https://stavinli.github.io/super-calendar/index.html](https://stavinli.github.io/super-calendar/index.html)
 
 ### 图片介绍
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/super-calendar/images/intro1.png)
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro1.png)
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/super-calendar/images/intro2.png)
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro2.png)
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/super-calendar/images/intro3.png)
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro3.png)
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/super-calendar/images/intro4.png)
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro4.png)
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/super-calendar/images/intro5.png)
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro5.png)
 
 
 ### 使用说明
