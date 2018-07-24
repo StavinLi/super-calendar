@@ -4,18 +4,9 @@
 ### 效果预览
 - [在线预览 https://stavinli.github.io/super-calendar/index.html](https://stavinli.github.io/super-calendar/index.html)
 
-### 图片介绍
+### 图片预览
 
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro1.png)
-
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro2.png)
-
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro3.png)
-
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro4.png)
-
-![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/intro5.png)
-
+![Alt text](https://github.com/StavinLi/super-calendar/blob/master/images/1532421401228.gif)
 
 ### 使用说明
 - 1.引入文件css
