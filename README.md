@@ -1,6 +1,9 @@
 # super-calendar
 日历-选择入住离开时间
 
+### 效果预览
+    1. [在线预览 https://stavinli.github.io/super-calendar/index.html](https://stavinli.github.io/super-calendar/index.html)
+
 ### 图片介绍
 
 ![Alt text](https://github.com/yichen1203/super-calendar/blob/master/super-calendar/images/intro1.png)
@@ -46,5 +49,3 @@
     2. callback 回调函数 
 
 
-### 预览
-    1. [预览效果 https://stavinli.github.io/super-calendar/index.html](https://stavinli.github.io/super-calendar/index.html)
